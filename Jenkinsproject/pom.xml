@@ -24,7 +24,7 @@
     <configuration>
      <archive>
       <manifest>
-       <mainClass>test.Test</mainClass>
+       <mainClass>mypack2.Sample</mainClass>
       </manifest>
      </archive>
     </configuration>
